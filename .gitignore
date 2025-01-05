@@ -1,0 +1,12 @@
+*
+!*.cu
+!*.h
+!*.cuh
+!*.cpp
+!*.hpp
+!*.py
+!Makefile
+!.gitignore
+!CMakeLists.txt
+!README.md
+!acc/
